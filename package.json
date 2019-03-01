@@ -11,8 +11,7 @@
     "object",
     "object-path",
     "merge",
-    "recursive",
-    "variadic"
+    "recursive"
   ],
   "repository": {
     "type": "git",
