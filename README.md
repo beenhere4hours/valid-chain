@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/beenhere4hours/valid-chain.svg?branch=master)](https://travis-ci.org/beenhere4hours/valid-chain)
+
 valid-chain
 =====
 
