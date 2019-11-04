@@ -1,7 +1,7 @@
 {
   "author": "Daniel Masi",
   "name": "@beenhere4hours/valid-chain",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Deep check if property exists",
   "homepage": "https://github.com/beenhere4hours/valid-chain#README.md",
   "url": "https://github.com/beenhere4hours/valid-chain/issues",
@@ -19,7 +19,7 @@
     "chai": "^4.2.0",
     "jshint": "^2.10.1",
     "mocha": "^5.2.0",
-    "nyc": "^13.3.0"
+    "nyc": "^14.1.1"
   },
   "scripts": {
     "lint": "jshint index.js",
