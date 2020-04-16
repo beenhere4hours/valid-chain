@@ -24,5 +24,8 @@
   "scripts": {
     "lint": "jshint index.js",
     "test": "nyc mocha"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
